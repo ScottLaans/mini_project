@@ -71,5 +71,5 @@ weather_data.csv: Historical weather records used for correlation.
 
 terspegelt.json: Source review data.
 
-📊 Dashboard Insights
+Dashboard Insights
 The dashboard allows users to filter data by year, topic, and period (Holiday vs. Off-season). It specifically highlights "Improvement Areas" by generating Word Clouds from negative reviews, allowing management to quickly identify recurring complaints.
